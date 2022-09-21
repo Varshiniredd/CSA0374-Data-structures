@@ -1,0 +1,16 @@
+# CSA0374-Data-structures
+matrix multipication,
+odd or even numbers,
+factorial without recurssion,
+fibonnacci series using recurssion,
+factorial of number using recurssion,
+fibonnacii without recursion,
+array operations,
+linear search,
+binary search,
+linked list operations, 
+stack operations,
+stack applications,
+queue operations,
+tree traversal,
+hashing.
